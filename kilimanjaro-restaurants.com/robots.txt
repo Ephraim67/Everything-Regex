@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: http://198.199.73.58
+
+# Sitemaps
+Sitemap: http://198.199.73.58/sitemap.xml
